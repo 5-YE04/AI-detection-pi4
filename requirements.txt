@@ -1,0 +1,5 @@
+
+ultralytics>=8.0.0
+opencv-python==4.8.1.78
+numpy==1.23.5
+tflite-runtime==2.9.1
